@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @khlinhstudycode
+- 👀 I’m currently interested in codingg
+- 🌱 I’m currently learning Python
